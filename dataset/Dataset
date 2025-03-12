@@ -1,1 +1,2 @@
-`When the capture file is executed, if no dataset directory exists, it will be created automatically, and the captured images will be saved in it. The dataset will be loaded when the file is executed.`
+When the capture file is executed, if no dataset directory exists, it will be created automatically,and the captured 
+images will be saved in it. The dataset will be loaded when the file is executed.
